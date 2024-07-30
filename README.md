@@ -90,6 +90,7 @@ After placing the order, most of the customers have not given ratings to the res
 
 
 **Conclusion**:
+
 Domminos, Pizza Hut, and KFC has the largest restaurant franchise across India on swiggy app.
 There are more than 80,000 restarant counts where customer has not given ratings.
 There are 54.5% restaurants with rating between 3.1 to 4.0.There are 40.3% restaurants with rating between 4.1 to 5.0.
